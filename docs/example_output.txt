@@ -1,5 +1,127 @@
--
+ -
  Results for All versions recorded
+ -
+Max	Runs	Role
+ 27	 4	Centaur Fighter
+ 27	 6	Deep Dwarf Fighter
+ 27	 9	Hill Orc Monk
+ 27	 24	Minotaur Berserker
+ 27	 10	Gargoyle Fighter
+ 27	 22	Deep Elf Fire Elementalist
+ 26	 11	Demonspawn Fighter
+ 25	 14	Spriggan Enchanter
+ 25	 26	Centaur Hunter
+ 19	 3	Gnoll Summoner
+ 19	 5	Gnoll Wanderer
+ 18	 19	Minotaur Fighter
+ 16	 8	Merfolk Summoner
+ 15	 3	Vine Stalker Fighter
+ 15	 6	Human Fighter
+ 14	 3	Felid Venom Mage
+ 14	 1	Pale Draconian Fire Elementalist
+ 14	 6	Human Gladiator
+ 13	 3	Hill Orc Fighter
+ 13	 3	Gnoll Transmuter
+ 13	 5	Troll Monk
+ 12	 1	Gnoll Warper
+ 12	 4	Gargoyle Earth Elementalist
+ 12	 11	Vine Stalker Assassin
+ 11	 1	Ogre Fighter
+ 11	 2	Hill Orc Transmuter
+ 11	 2	Felid Summoner
+ 11	 3	Merfolk Transmuter
+ 10	 1	Barachi Fighter
+ 10	 4	Gargoyle Monk
+ 9	 1	Deep Dwarf Hunter
+ 9	 1	Minotaur Monk
+ 9	 1	Naga Fighter
+ 9	 10	Demonspawn Gladiator
+ 9	 2	Merfolk Gladiator
+ 9	 5	Octopode Transmuter
+ 8	 1	Deep Elf Arcane Marksman
+ 8	 1	Deep Dwarf Earth Elementalist
+ 8	 3	Ghoul Wanderer
+ 8	 3	Halfling Earth Elementalist
+ 7	 1	Minotaur Abyssal Knight
+ 7	 3	Naga Enchanter
+ 7	 1	Yellow Draconian Fire Elementalist
+ 7	 1	Black Draconian Venom Mage
+ 7	 1	Centaur Arcane Marksman
+ 7	 7	Gnoll Skald
+ 6	 1	Vine Stalker Enchanter
+ 6	 1	Tengu Air Elementalist
+ 6	 1	Hill Orc Artificer
+ 6	 1	Ogre Conjurer
+ 6	 1	Octopode Fighter
+ 6	 1	Formicid Fighter
+ 6	 1	Vampire Abyssal Knight
+ 6	 1	Gnoll Fire Elementalist
+ 6	 2	Demonspawn Fire Elementalist
+ 6	 2	Gnoll Arcane Marksman
+ 6	 3	Spriggan Assassin
+ 6	 1	Kobold Chaos Knight
+ 6	 3	Draconian Fire Elementalist
+ 5	 1	Naga Berserker
+ 5	 1	Kobold Enchanter
+ 5	 1	Hill Orc Conjurer
+ 5	 3	Vampire Necromancer
+ 5	 1	Deep Elf Ice Elementalist
+ 5	 1	Minotaur Arcane Marksman
+ 5	 2	Mummy Necromancer
+ 5	 2	Naga Venom Mage
+ 5	 2	Ghoul Venom Mage
+ 4	 1	Kobold Hunter
+ 4	 1	Draconian Conjurer
+ 4	 2	Human Berserker
+ 4	 1	Tengu Summoner
+ 4	 1	Vampire Assassin
+ 4	 1	Spriggan Hunter
+ 4	 1	Gargoyle Berserker
+ 4	 3	Kobold Necromancer
+ 3	 1	Minotaur Conjurer
+ 3	 1	Draconian Transmuter
+ 3	 1	Demonspawn Chaos Knight
+ 3	 1	Hill Orc Wanderer
+ 3	 1	Mummy Fire Elementalist
+ 3	 1	Ghoul Conjurer
+ 3	 6	Felid Enchanter
+ 3	 1	Felid Transmuter
+ 3	 1	Felid Berserker
+ 3	 2	Vine Stalker Conjurer
+ 2	 2	Vampire Enchanter
+ 2	 1	Ghoul Summoner
+ 1	 1	Minotaur Gladiator
+ 1	 1	Spriggan Arcane Marksman
+ 1	 1	Deep Dwarf Berserker
+ 1	 1	Vampire Monk
+ 1	 1	Draconian Venom Mage
+ 1	 1	Gargoyle Air Elementalist
+ 1	 1	Naga Wizard
+ 1	 1	Mummy Enchanter
+ -
+#	Gods
+ 178	 Atheist
+ 35	 Trog
+ 20	 Makhleb
+ 18	 Okawaru
+ 10	 Sif Muna
+ 8	 Uskayaw
+ 8	 Wu Jian
+ 7	 Dithmenos
+ 7	 Ru
+ 5	 the Shining One
+ 5	 Nemelex Xobeh
+ 5	 Vehumet
+ 5	 Ashenzari
+ 5	 Hepliaklqana
+ 3	 Yredelemnul
+ 3	 Beogh
+ 3	 Xom
+ 2	 Fedhas
+ 2	 Lugonu
+ 2	 Cheibriados
+ 1	 Zin
+ 1	 Gozag
  -
 Wins	Runs	God
  2	 35	Trog
@@ -20,4 +142,3 @@ From 333 games with 6 wins
 With quickest win at: 4 hours 30 minutes
 With an median win at: 6 hours 51.5 minutes
 With slowest win at: 19 hours 37 minutes
- -
