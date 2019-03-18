@@ -1,0 +1,23 @@
+-
+ Results for All versions recorded
+ -
+Wins	Runs	God
+ 2	 35	Trog
+ 1	 7	Dithmenos
+ 1	 18	Okawaru
+ 1	 5	Vehumet
+ 1	 3	Beogh
+ -
+Wins	Runs	Role
+ 2	 24	Minotaur Berserker
+ 1	 10	Gargoyle Fighter
+ 1	 4	Centaur Fighter
+ 1	 22	Deep Elf Fire Elementalist
+ 1	 9	Hill Orc Monk
+ -
+For a total play time of: 235 hours 54 minutes
+From 333 games with 6 wins
+With quickest win at: 4 hours 30 minutes
+With an median win at: 6 hours 51.5 minutes
+With slowest win at: 19 hours 37 minutes
+ -
